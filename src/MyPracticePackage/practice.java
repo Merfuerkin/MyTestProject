@@ -6,6 +6,10 @@ public class practice {
 		// TODO Auto-generated method stub
 
 		System.out.println("practing");
+		
+		System.out.println("practing hahh");
+		
+		
 	}
 
 }
